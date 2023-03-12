@@ -1,0 +1,15 @@
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\bin\Debug\net6.0\Polimorfismo.exe
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\bin\Debug\net6.0\Polimorfismo.deps.json
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\bin\Debug\net6.0\Polimorfismo.runtimeconfig.json
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\bin\Debug\net6.0\Polimorfismo.dll
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\bin\Debug\net6.0\Polimorfismo.pdb
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.dll
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\obj\Debug\net6.0\refint\Polimorfismo.dll
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.pdb
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.genruntimeconfig.cache
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Programacion-1-Polimorfismo\Polimorfismo\obj\Debug\net6.0\ref\Polimorfismo.dll
